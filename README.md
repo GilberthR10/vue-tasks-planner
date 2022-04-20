@@ -7,6 +7,10 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+json-server --watch data/db.json
+```
+
+```
 npm run serve
 ```
 
